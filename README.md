@@ -1,5 +1,8 @@
 # Learning Purescript
 
+This repository contains Vitaly Potyarkin's notes and code snippets
+made while learning Purescript.
+
 ## Resources
 
 Primary resources:
