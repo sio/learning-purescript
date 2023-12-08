@@ -29,3 +29,7 @@ Other links:
 - [The category design pattern](https://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 - [Parsec: “try a <|> b” considered harmful](http://blog.ezyang.com/2014/05/parsec-try-a-or-b-considered-harmful/)
 - [Learn you a Haskell](http://learnyouahaskell.com/chapters)
+- [Hitchhiker's Guide to Haskell](https://wiki.haskell.org/Hitchhikers_guide_to_Haskell),
+  with follow-ups:
+    - [Understanding Monads](https://en.wikibooks.org/wiki/Haskell/Understanding_monads)
+    - [All about Monads](https://wiki.haskell.org/All_About_Monads)
